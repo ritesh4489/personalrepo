@@ -1,0 +1,6 @@
+Problem statement for MiniProject
+You are responsible for developing a shopping
+application.
+This application has two modules.
+1. Admin
+2. Customer
